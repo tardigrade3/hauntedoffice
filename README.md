@@ -5,6 +5,7 @@ A game where you're just trying to have a normal day and ghosts ruin everything.
 The user has to get a certain number of points within a time limit. Points are earned by moving a character around the screen to touch the pink squares using the arrow keys or WASD. There are also ghosts that follow the player around. The player can't move for 2 seconds if they are touched by a ghost.
 
 ## Installation
+- Uses Python version 3.7
 - Pygame Zero and Pygame are used to design video games in Python
 
 Use the pip to install Pygame Zero ([this will also install Pygame](https://pygame-zero.readthedocs.io/en/stable/installation.html)).
