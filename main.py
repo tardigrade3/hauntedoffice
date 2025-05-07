@@ -1,6 +1,6 @@
 """
 Haunted Office
-Julia K
+J Kirney
 A game where the user tries to collect items before the time runs out while being chased by ghosts.
 """
 
